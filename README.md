@@ -72,10 +72,10 @@ InAmigos/
 
 # 🔗 Live Demo
 
-https://in-amigos-khaki.vercel.app/
+
 
 ```bash
-https://your-vercel-link.vercel.app
+https://in-amigos-khaki.vercel.app/
 ```
 
 ---
