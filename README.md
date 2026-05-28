@@ -41,35 +41,6 @@ The webpage is designed with a clean and modern UI using **HTML, CSS, and JavaSc
 * JavaScript
 * Google Fonts
 
----
-
-# 🌍 NGO Projects Highlighted
-
-## 📚 Project Bachpanshala
-
-Providing education and learning resources for underprivileged children.
-
-## 🌱 Project Prakriti
-
-Environmental awareness and tree plantation initiative.
-
-## 👩 Project Udaan
-
-Women empowerment and skill development program.
-
-## 🐾 Project Jeev
-
-Animal welfare and stray animal care initiative.
-
-## 🍱 Project Seva
-
-Food and clothing distribution for needy communities.
-
-## 🎓 Project Vikas
-
-Internship and youth skill development initiative.
-
----
 
 # 🎯 Purpose of the Website
 
@@ -97,25 +68,11 @@ InAmigos/
 
 ---
 
-# 📸 Screenshots
 
-## Homepage
-
-![Homepage](ScreenShots/screenshot1.png)
-
-## Projects Section
-
-![Projects](ScreenShots/screenshot2.png)
-
-## Volunteer Section
-
-![Volunteer](ScreenShots/screenshot3.png)
-
----
 
 # 🔗 Live Demo
 
-Add your deployed website link here:
+https://in-amigos-khaki.vercel.app/
 
 ```bash
 https://your-vercel-link.vercel.app
@@ -123,25 +80,8 @@ https://your-vercel-link.vercel.app
 
 ---
 
-# 💡 Future Improvements
 
-* Add backend support for forms
-* Add real NGO images and gallery
-* Add donation payment integration
-* Improve accessibility
-* Add dark mode
-* Add advanced animations
 
----
-
-# 🙌 Acknowledgements
-
-This project is inspired by the initiatives and social work of **InAmigos Foundation**.
-
-Official Website:
-https://inamigosfoundation.org.in
-
----
 
 # 👨‍💻 Author
 
